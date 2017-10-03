@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 > Things happen for a reason, whether they are good or bad!
 
-From [https://www.google.com]
+From [here](https://www.google.com)
