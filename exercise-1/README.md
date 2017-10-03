@@ -6,4 +6,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
->Things happen for a reason, whether they are good or bad!
+> Things happen for a reason, whether they are good or bad!
+
+From [https://www.google.com]
